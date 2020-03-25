@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="btnMainActovityLabel">Apri activity 2</string>
+    <string name="btnShareLabel">Condividi</string>
+</resources>
